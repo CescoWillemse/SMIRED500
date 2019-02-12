@@ -7,4 +7,5 @@ This Python script extracts a SMI RED 500 text file in a CSV
 
 python smi2csv.py <smi_input> <smi_output>
 
-'''python smi2csv.py input.txt output.csv'''
+Example of usage:
+python smi2csv.py input.txt output.csv
