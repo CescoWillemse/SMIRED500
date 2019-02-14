@@ -13,7 +13,7 @@ python smi2csv.py input.txt output.csv
 ## SMI_dwelltimes.py - Calculating AOI dwell times per trial
 This python script reads SMI csv file (the smi2csv.py output), labels relevant AOIs, calculates dwell time on each AOI per trial (from 'Video_onset' until 'Distraction_start') and saves the variables.
 
-python SMI_dwelltimes <input filename> <output filename>
+python SMI_dwelltimes <input_filename> <output_filename>
 
 Example of use: 
 python SMI_dwelltimes.py input.csv output.csv
